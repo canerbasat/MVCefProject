@@ -21,6 +21,8 @@ install package Microsoft.EntityFrameworkCore.Design to DataAccess project
   
   override OnConfiguring method with this
   
+  //in EfCoreContext.cs
+  
    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
 
