@@ -1,5 +1,8 @@
 # MVCefProject
 
+OSX .Net Core Project - Error messages you may receive
+
+
 ------------------------------------------------------------------------------------------------------------------------------
  dotnet ef migrations add InitialCreate  =>  Startup project 'Catalog.DataAccess.csproj' targets framework '.NETStandard'. There is no runtime associated with this framework, and projects targeting it cannot be executed directly. To use the Entity Framework Core .NET Command-line Tools with this project, add an executable project targeting .NET Core or .NET Framework that references this project, and set it as the startup project using --startup-project; or, update this project to cross-target .NET Core or .NET Framework. For more information on using the EF Core Tools with .NET Standard projects, see https://go.microsoft.com/fwlink/?linkid=2034781
  
@@ -27,7 +30,7 @@ install package Microsoft.EntityFrameworkCore.Design to DataAccess project
         }
         
         
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+------------------------------------------------------------------------------------------------------------------------------
 
 dotnet ef migrations add InitialCaner => Done. To undo this action, use 'ef migrations remove' 👌👌👌👌
 
@@ -42,4 +45,5 @@ ORDER BY `MigrationId`;
 open your db shell and run this script
 
 CREATE TABLE `__EFMigrationsHistory` ( `MigrationId` nvarchar(150) NOT NULL, `ProductVersion` nvarchar(32) NOT NULL, PRIMARY KEY (`MigrationId`) );
+
 ------------------------------------------------------------------------------------------------------------------------------
