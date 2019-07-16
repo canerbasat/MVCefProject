@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/Catalog.DataAccess.csproj": {}
+  },
+  "projects": {
+    "/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/Catalog.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/Catalog.DataAccess.csproj",
+        "projectName": "Catalog.DataAccess",
+        "projectPath": "/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/Catalog.DataAccess.csproj",
+        "packagesPath": "/Users/sahabt/.nuget/packages/",
+        "outputPath": "/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sahabt/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "MySql.Data.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

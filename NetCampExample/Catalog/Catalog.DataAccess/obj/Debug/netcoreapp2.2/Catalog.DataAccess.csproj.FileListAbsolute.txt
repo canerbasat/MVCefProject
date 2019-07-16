@@ -1,0 +1,11 @@
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/bin/Debug/netcoreapp2.2/Catalog.DataAccess.deps.json
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/bin/Debug/netcoreapp2.2/Catalog.DataAccess.runtimeconfig.json
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/bin/Debug/netcoreapp2.2/Catalog.DataAccess.runtimeconfig.dev.json
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/bin/Debug/netcoreapp2.2/Catalog.DataAccess.dll
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/bin/Debug/netcoreapp2.2/Catalog.DataAccess.pdb
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/obj/Debug/netcoreapp2.2/Catalog.DataAccess.csproj.CoreCompileInputs.cache
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/obj/Debug/netcoreapp2.2/Catalog.DataAccess.AssemblyInfoInputs.cache
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/obj/Debug/netcoreapp2.2/Catalog.DataAccess.AssemblyInfo.cs
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/obj/Debug/netcoreapp2.2/Catalog.DataAccess.dll
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/obj/Debug/netcoreapp2.2/Catalog.DataAccess.pdb
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.DataAccess/obj/Debug/netcoreapp2.2/Catalog.DataAccess.csprojAssemblyReference.cache

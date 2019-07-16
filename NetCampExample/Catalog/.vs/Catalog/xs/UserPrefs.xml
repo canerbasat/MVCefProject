@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{35639989-BAA9-48F1-9A7C-5DD771A014C7}|Default">
+  <MonoDevelop.Ide.ItemProperties.CatalogWeb PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Catalog.DataAccess/EFCoreContext.cs">
+    <Files>
+      <File FileName="CatalogWeb/Startup.cs" Line="64" Column="1" />
+      <File FileName="../../../../../../../usr/local/share/dotnet/sdk/2.2.300/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.ObsoleteReferences.targets" />
+      <File FileName="Catalog.DataAccess/EFCoreContext.cs" Line="31" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Catalog" expanded="True">
+            <Node name="Catalog.Business" expanded="True" />
+            <Node name="Catalog.DataAccess" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="EFCoreContext.cs" selected="True" />
+            </Node>
+            <Node name="CatalogWeb" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/bin/Debug/netcoreapp2.2/Catalog.Business.deps.json
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/bin/Debug/netcoreapp2.2/Catalog.Business.dll
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/bin/Debug/netcoreapp2.2/Catalog.Business.pdb
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/bin/Debug/netcoreapp2.2/Catalog.DataAccess.dll
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/bin/Debug/netcoreapp2.2/Catalog.DataAccess.pdb
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/obj/Debug/netcoreapp2.2/Catalog.Business.csprojAssemblyReference.cache
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/obj/Debug/netcoreapp2.2/Catalog.Business.csproj.CoreCompileInputs.cache
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/obj/Debug/netcoreapp2.2/Catalog.Business.AssemblyInfoInputs.cache
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/obj/Debug/netcoreapp2.2/Catalog.Business.AssemblyInfo.cs
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/obj/Debug/netcoreapp2.2/Catalog.Business.csproj.CopyComplete
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/obj/Debug/netcoreapp2.2/Catalog.Business.dll
+/Users/sahabt/Desktop/dtTaze/netcamp/NetCampExample/Catalog/Catalog.Business/obj/Debug/netcoreapp2.2/Catalog.Business.pdb
